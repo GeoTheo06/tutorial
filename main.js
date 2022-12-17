@@ -35,7 +35,7 @@ const oddNumbers = [1, 3, 5, 7, 9]
 console.log(oddNumbers[2])
 
 
-//comparison operators: double equals == checks if the value is the same. Triple equals === checks if the value AND the data type is the same. not triple equals would be !== XD
+//comparison operators: double equals == checks if the value is the same. Triple equals === checks if the value AND the data type is the same. "not triple equals" would be !== XD
 var x = 5;
 var z = "5";
 console.log(x == z); //true
