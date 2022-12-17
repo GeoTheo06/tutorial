@@ -1,7 +1,9 @@
 /* Dynamic Variables. The variable value can be changed as well as the type of the variable! so a string variable can become int variable just by assigning a string first and then an int
 var age = 25
 
-//or if you are a pervert, you can define variables using "var" keyword: let age = 25
+//or if you are a pervert, you can define variables using "var" keyword: 
+let whatIsThis = 25
+
 age = "dynamic typed languages are kinda cool"
 console.log(age) //outputs "this is kinda cool" 
 
